@@ -15,5 +15,7 @@
   "description": "this is a todolist",
   "main": "server.js",
   "author": "INdrajit Ari",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "keywords": []
 }
