@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.0",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "this is a todolist",
+  "main": "server.js",
+  "author": "INdrajit Ari",
+  "license": "ISC"
+}
